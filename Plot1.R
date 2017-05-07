@@ -19,3 +19,4 @@ hist(PlotData$Global_active_power, xlab = "Global Active Power (kilowatts)", col
 # Close the png file
 dev.off()
 
+
