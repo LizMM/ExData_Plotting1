@@ -14,7 +14,7 @@ PlotData$Sub_metering_3 <- as.numeric(PlotData$Sub_metering_3)
 PlotData$Voltage <- as.numeric(PlotData$Voltage)
 PlotData$Global_reactive_power <- as.numeric(PlotData$Global_reactive_power)
 
-# Create plot 3
+# Create plot 4
 
 # Open a png file with a width and height of 480 pixels and save it was 'Plot4'
 png(filename= "plot4.png", width= 480, height = 480)
