@@ -20,3 +20,4 @@ plot(PlotData$DateTime, PlotData$Global_active_power, type = "l", xlab = "", yla
 
 # Close the png file
 dev.off()
+
