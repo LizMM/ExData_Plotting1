@@ -27,3 +27,4 @@ with(PlotData, { plot(DateTime, Sub_metering_1, type="l", xlab="",ylab="Energy s
 
 # Close the png file
 dev.off()
+
